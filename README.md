@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Josephine
+#### I am Full-Stack developer
+![I am Full-Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**JoeClos/JoeClos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java & Angular in Helsinki Business College. 
+ I really enjoy learning programming languages and frameworks!
 
-Here are some ideas to get you started:
+Skills: JAVA/ ANGULAR / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeClos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josephine-closan/)  
+
+
+
+
