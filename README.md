@@ -4,12 +4,12 @@
 
 ## Skills and Experience:
 
-- JAVA
-- ANGULAR
+- Java 
+- Angular
 - JS
 - HTML
 - CSS
-- BOOTSTRAP
+- Bootstrap
 
 
 
