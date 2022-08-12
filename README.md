@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Josephine
+### Hi there 👋, my name is Josephine.
 #### I am Full-Stack developer
-- 🌱 I’m currently learning Java & Angular in Helsinki Business College. 
+🌱 I’m currently learning Java & Angular in Helsinki Business College. 
 
 ## Skills and Experience:
 
