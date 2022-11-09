@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Josephine.
 #### I am Full-Stack developer :computer:
-🌱 I’m currently learning Java & Angular in Helsinki Business College. 
+🌱 I’m currently learning React & Node.js in The Shortcut Academy - full-stack development module. 
 
 ## Languages and Tools:
 
