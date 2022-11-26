@@ -59,6 +59,10 @@ Previously I've studied Java & Angular in Helsinki Business College.
 ## More about me :arrow_down: : 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoeClos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/josephine-closan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://joeclos.github.io/)  
 
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/JoeClos)
+![](https://visitor-badge.laobi.icu/badge?page_id=JoeClos.JoeClos)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeClos&theme=tokyonight)
+
 
 
 
