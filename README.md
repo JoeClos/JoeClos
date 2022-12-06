@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/JoeClos?label=Follow&style=social)](https://github.com/JoeClos)
 #### I am Full-Stack developer student:computer:
 🌱 I’m currently learning React & Node.js in The Shortcut Academy - full-stack development module. 
-Previously I've studied Java & Angular in Helsinki Business College.
+
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,angular,java,spring,nodejs,html,css,bootstrap,git,azure,heroku,netlify,illustrator&theme=light)](https://skillicons.dev)
