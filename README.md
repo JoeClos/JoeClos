@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Josephine.
 [![Github](https://img.shields.io/github/followers/JoeClos?label=Follow&style=social)](https://github.com/JoeClos)
-#### I am Full-Stack developer student:computer:
-🌱 I’m currently learning React & Node.js in The Shortcut Academy - full-stack development module. 
+#### I am junior full-stack developer:computer: 
 
 ## Languages and Tools:
 
