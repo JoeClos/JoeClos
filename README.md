@@ -28,7 +28,7 @@
 
 </br>
 
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=JoeClos)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeClos&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/JoeClos/github-readme-stats)
 
@@ -47,7 +47,7 @@
 
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=JoeClos.JoeClos)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeClos&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeClos&theme=tokyonight) 
 
 
 
