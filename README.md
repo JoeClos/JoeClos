@@ -6,7 +6,7 @@
 <h3> About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React.
-- 🎓 &nbsp; I’ve previously studied Angular & Java in Helsinki Business School.
+- 🎓 &nbsp; I’ve previously studied Angular & Java in Helsinki Business College.
 - 🌱 &nbsp; I like learning and exploring new technologies.
 - 🌱 &nbsp; Enthusiast also in Full-Stack development.
 - ✍️ &nbsp; I solve sudoku in my free time and I like to take long walks in the Finland's forests/parks.
