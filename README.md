@@ -5,7 +5,6 @@
 
 <h3> About Me </h3>
 
-- 🎓 &nbsp; Currently studying UX design alongside practicing coding and I am all excited about it!!!
 - 🌱 &nbsp; I like learning and exploring new technologies.
 - 🌱 &nbsp; Enthusiast also in Full-Stack development.
 - ✍️ &nbsp; I solve sudoku in my free time and I like to take long walks in the Finland's forests/parks.
