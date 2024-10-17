@@ -1,7 +1,7 @@
 <h1> Hi there! I'm Josephine👋.</h1
 [![Github](https://img.shields.io/github/followers/JoeClos?label=Follow&style=social)](https://github.com/JoeClos)
 <h2> </h2>  
-<h2> A passionate Front-end/ Full-stack Developer living in Finland. </h2>
+<h2> A passionate Frontend/ Full-stack Developer living in Finland. </h2>
 
 <h3> About Me </h3>
 
